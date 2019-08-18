@@ -1,6 +1,6 @@
 baseURL                   = "https://example.com"
 builddrafts                = false
-languageCode               = "zn-Hans"
+languageCode               = "zh-Hans"
 canonifyurls               = true
 contentdir                 = "content"
 layoutdir                  = "layouts"
@@ -10,8 +10,8 @@ hasCJKLanguage             = true
 summaryLength              = 200
 Paginate                   = 3
 
-theme                      = "AllinOne"
-title                      = "Orianna"
+theme                      = "AllinOne-sunbirder"
+title                      = "Sunbirder"
 
 pygmentsuseclasses         = true
 
@@ -48,9 +48,9 @@ pygmentsuseclasses         = true
  
 
 [params]
-  faviconfile              = "img/zheng.png"               # from static/
-  avatar                   = "img/profile.jpg"             # path to image in static dir e.g img/avatar.png 
-  author                   = "Orianna"
+  faviconfile              = "img/WechatIMG381.jpeg"               # from static/
+  #avatar                   = "img/profile.jpg"             # path to image in static dir e.g img/avatar.png 
+  author                   = "Sunbirder"
   description              = ["Be myself.", "Love the wonderful world.", "Do the right things and be a better man."]           # appears in the site header when set to a non-empty string
   welcome_head             = "Hello, World!"
   welcome_word             = "~ No Day But Today ~"
